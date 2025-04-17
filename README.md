@@ -7,7 +7,7 @@
 ## Tech Stack
 **Front-End:** React.js, CSS
 <br/>
-**Back-End:** Flask, Google Cloud, Cohere Command R API (Coming soon)
+**Back-End:** Flask, Google Cloud (Gmail API, Oauth), Cohere Command R API (Coming soon)
 <br/>
 **Database:** SQL
 <br/>
