@@ -2,8 +2,9 @@
 **Malpighi** -  Engineered an AI-driven platform leveraging React.js, Flask, Google Cloud, and SQL to streamline email communication with features like AI-generated responses, summarization, and adaptive dashboards.
 <br/>
 <br/>
-**Note:**   Code cannot be published due to confidential information
+**Note:**   &emsp; Code cannot be published due to confidential information
 <br/>
+**Features:** AI-generated responses, email summarization, adaptive dashboards
 ## Tech Stack
 **Front-End:** React.js, CSS
 <br/>
