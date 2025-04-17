@@ -5,7 +5,7 @@ An AI-driven Communication Dashboard leveraging React.js, Flask, Google Cloud, a
 **Note:** 
 Code cannot be published due to confidential information
 <br/><br/>
-**Features:** &emsp; AI-generated Responses, Email Summarization, Contact Management, Adaptive Dashboards etc
+**Features:** AI-generated Responses, Email Summarization, Contact Management, Adaptive Dashboards etc
 <br/><br/>
 ## Tech Stack
 **Front-End:** React.js, CSS
