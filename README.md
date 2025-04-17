@@ -2,7 +2,7 @@
 **Malpighi -**&emsp;An AI-driven Communication Dashboard leveraging React.js, Flask, Google Cloud, and SQL to streamline email communication with features like AI-generated responses, summarization, and adaptive dashboards.
 <br/>
 <br/>
-**Note:**&emsp;&emsp; Code cannot be published due to confidential information
+**Note:**&emsp; Code cannot be published due to confidential information
 <br/>
 **Features:** &emsp; AI-generated Responses, Email Summarization, Contact Management, Adaptive Dashboards etc
 ## Tech Stack
