@@ -15,7 +15,7 @@ Code cannot be published due to confidential information
 **Database:** SQL
 <br/>
 ## Screenshots of development
-![Screenshot 2025-04-19 193818](https://github.com/user-attachments/assets/60953622-b71d-414a-8ba9-8a86af42e350)
+![Screenshot 2025-04-21 012200](https://github.com/user-attachments/assets/d7b11a7b-8ae8-49b4-9b32-787c21ad4cd8)
 <br/>
 ![Screenshot 2025-04-10 174601](https://github.com/user-attachments/assets/59127d5e-4c2a-43a9-bed6-e54df0a0ed0c)
 <br/>
