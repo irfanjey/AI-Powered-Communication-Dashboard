@@ -25,5 +25,5 @@ Code cannot be published due to confidential information
 <br/>
 ![Screenshot 2025-03-22 193550](https://github.com/user-attachments/assets/3380709d-80d3-4745-8d99-14d61717e747)
 <br/>
-![Screenshot 2025-03-25 004120](https://github.com/user-attachments/assets/79e6fdf4-d3c8-440e-9cfa-6180cd6a48c6)
+![Screenshot 2025-05-02 140827](https://github.com/user-attachments/assets/62e150dd-edee-461b-b495-d76b7638b896)
 <br/>
