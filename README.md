@@ -10,7 +10,7 @@ Code cannot be published due to confidential information
 ## Tech Stack
 **Front-End:** React.js, CSS
 <br/>
-**Back-End:** Flask, Google Cloud (Gmail API, Oauth), Cohere Command R API (Coming soon)
+**Back-End:** Flask, Google Cloud (Gmail API, Oauth), Cohere Command R API
 <br/>
 **Database:** SQL
 <br/>
