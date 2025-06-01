@@ -19,7 +19,7 @@ Code cannot be published due to confidential information
 <br/>
 ![Screenshot 2025-04-28 192245](https://github.com/user-attachments/assets/1f57fb72-56d9-4946-bfab-913842321e87)
 <br/>
-![Screenshot 2025-05-12 205120](https://github.com/user-attachments/assets/fb5f6ada-d951-4803-92b1-7222f7f1fe08)
+![Screenshot 2025-05-31 221645](https://github.com/user-attachments/assets/66821883-b98e-4f3e-86d9-95c90bb5044c)
 <br/>
 ![Screenshot 2025-05-15 211300](https://github.com/user-attachments/assets/4279f622-a2eb-448b-9023-a1ff7a34c9d7)
 <br/>
