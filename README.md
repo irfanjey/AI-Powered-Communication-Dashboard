@@ -12,7 +12,7 @@ Code cannot be published due to confidential information
 <br/>
 **Back-End:** Flask, Google Cloud (Gmail API, Oauth), Cohere Command R API
 <br/>
-**Database:** SQL
+**Database:** MySQL with SQLAlchemy ORM
 <br/>
 ## Screenshots of development
 ![Screenshot 2025-05-23 213606](https://github.com/user-attachments/assets/b2ae600d-38ef-48b1-95ec-3213dd61d77f)
